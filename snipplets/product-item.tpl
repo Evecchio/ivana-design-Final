@@ -78,7 +78,7 @@
     {% if product.display_price %}
         <div class="ivana-card-transfer-container">
             <span class="ivana-card-transfer-icon" aria-hidden="true">
-                <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="#9A9A9A" stroke-width="1.45" stroke-linecap="round" stroke-linejoin="round" focusable="false">
+                <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="#9A9A9A" stroke-width="1.45" stroke-linecap="round" stroke-linejoin="round" focusable="false">
                     <path d="M3.5 9.5 12 4l8.5 5.5"></path>
                     <path d="M5 9.5h14"></path>
                     <path d="M6.5 17.5h11"></path>
